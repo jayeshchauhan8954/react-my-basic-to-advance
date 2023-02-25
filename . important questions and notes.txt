@@ -1,0 +1,34 @@
+Q.1 what is the alternative of npm?
+Answer- The alternative of npm is yarn.
+ yarm pagage manager is created and maintained by facebook itself.
+
+
+Q.2 What is the current version of react on date 14.feb.2023?
+Answer- version 18.2.0 
+
+Q.3 Name and types of components.
+Answer-	1. Functional
+	  	2. Class Component
+		3. HOC (High order component)
+		4. Pure Component
+		5. Controlled Component
+		6. Uncontrolled Component
+		// this is not counted
+		7. Nested components
+		8. Stateless components
+		
+Q.4 Can we create another component inside a component?
+Anwer- Yes we can do this.
+
+Q.5 Can we use React and Angular in a single project?
+Answer- Yes we can do this.
+
+Q.6 Can we use our state outside the components?
+Answer- we can do this as all in javascript is object but we should not do like that.
+
+Q.7 which type of state is public, private or protective?
+Answer- State is public.
+
+Q.8 Can we use useState in class based components?
+Answer- No, we can't do that.
+Q.9 Can we pass a funtion as a props?
